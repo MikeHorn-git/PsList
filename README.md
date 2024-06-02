@@ -5,11 +5,11 @@
 # Compilation
 The source file is a standalone C file.  
 
-## Automatic build:
+## Automatic build
 ```batch
 .\compile.bat
 ```
-## Manual build:
+## Manual build
 ```batch
 cl.exe /EHsc pslist.c
 ```
