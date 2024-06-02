@@ -244,7 +244,7 @@ void ListProcessThreads(DWORD dwOwnerPID) {
 
 // Main function
 int main(int argc, char* argv[]) {
-    printf("\nPsList - Yet another Process viewer. Inspired by sysinternals. \nMade By ChaosLayer and MikeHorn-git\n\n");
+    printf("\nPsList - Yet another Process viewer. Inspired by sysinternals. \nMade By Phobetore and MikeHorn-git\n\n");
 
     const char* processName = NULL;
     DWORD processId = 0;
