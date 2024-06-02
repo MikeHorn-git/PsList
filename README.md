@@ -3,10 +3,14 @@
 
 
 # Compilation
-The source file is a standalone C file. Compile with cl.exe
-Automatic build can be used with the compile.bat script if executed in the Developer Command Prompt.  
-Or you can compile it by doing:
-```bash
+The source file is a standalone C file.  
+
+## Automatic build:
+```batch
+.\compile.bat
+```
+## Manual build:
+```batch
 cl.exe /EHsc pslist.c
 ```
 
