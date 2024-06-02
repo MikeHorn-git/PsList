@@ -25,5 +25,5 @@ cl.exe /EHsc pslist.c
 * .\pslist.exe --help | -h : Display this help.
 
 # Authors
-* ChaosLayer
+* [Phobetor](https://github.com/Phobetore)
 * [MikeHorn-git](https://github.com/MikeHorn-git)
