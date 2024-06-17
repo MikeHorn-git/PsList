@@ -1,22 +1,14 @@
+# Description
+School Project
+
 # Requirements
 * [Msbuild](https://visualstudio.microsoft.com/downloads/)
 
 
 # Compilation
-The source file is a standalone C file.  
-
-## Automatic build
 ```batch
 .\compile.bat
 ```
-## Manual build
-```batch
-cl.exe /EHsc pslist.c
-```
-
-## Flags
-* EH : Exception Handling
-* sc : Use the standard C++ EH model
 
 # Usage
 * .\pslist.exe -d <processId> : View threads of the specified process ID..
